@@ -10,7 +10,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        tvCounter.text = "1" //pemanggilan yang dimulai dengan huruf 1
+        tvCounter.text = "1" //pemanggilan yang dimulai dengan huruf 1 satu
     }
 
     fun addNumber (v: View) {
